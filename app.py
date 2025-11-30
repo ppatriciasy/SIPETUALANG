@@ -590,7 +590,7 @@ if not st.session_state.logged_in:
         daftar_buku = [
             {
                 "icon": "data/buku-profil.png",
-                "judul": "Profil Kesehatan Masyarakat Lingkar Tambang",
+                "judul": "Profil Kesehatan Masyarakat",
                 "deskripsi": "Profil Kesehatan Masyarakat Lingkar Tambang Kabupaten Lahat 2025.",
                 "link": "https://heyzine.com/flip-book/f8c084b932.html",
             },
@@ -1257,3 +1257,4 @@ if menu == "Dashboard PT":
 
 elif menu == "CSR Perusahaan":
     show_csr_tracker()
+
