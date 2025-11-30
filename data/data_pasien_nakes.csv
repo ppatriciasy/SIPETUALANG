@@ -1,0 +1,123 @@
+Nama,NIK,Umur,Jenis Kelamin,Alamat,Keluhan,Diagnosa,Tanggal Input
+Pasien 1,3276011234567801,PUS/WUS (19–49 tahun),P,Jl. Melati 12,Demam,Demam,2025-11-12
+Pasien 2,3276011234567802,Lansia (50+ tahun),L,Jl. Kenanga 5,Batuk,ISPA,2025-11-03
+Pasien 3,3276011234567803,Remaja (12–18 tahun),P,Jl. Mawar 7,Panas,Demam,2025-11-18
+Pasien 4,3276011234567804,Anak-anak (6–11 tahun),L,Jl. Cempaka 22,Sakit perut,Demam,2025-11-09
+Pasien 5,3276011234567805,Bayi/Balita (0–5 tahun),P,Jl. Anggrek 8,Panas,Demam,2025-11-01
+Pasien 6,3276011234567806,Ibu Hamil,P,Jl. Dahlia 3,Mual,Hiperemesis,2024-09-21
+Pasien 7,3276011234567807,PUS/WUS (19–49 tahun),P,Jl. Kenanga 16,Sakit kepala,Migrain,2025-01-25
+Pasien 8,3276011234567808,Lansia (50+ tahun),L,Jl. Melur 10,Napas sesak,Asma,2024-10-17
+Pasien 9,3276011234567809,Remaja (12–18 tahun),L,Jl. Melati 4,NyerI sendi,Radang Sendi,2024-12-30
+Pasien 10,3276011234567810,Anak-anak (6–11 tahun),P,Jl. Flamboyan 9,Demam,Flu,2025-02-03
+Pasien 11,3276011234567811,Bayi/Balita (0–5 tahun),L,Jl. Merpati 11,Panas,Demam,2024-11-11
+Pasien 12,3276011234567812,Ibu Hamil,P,Jl. Kenari 2,Kram perut,Kehamilan Trimester Awal,2025-02-08
+Pasien 13,3276011234567813,PUS/WUS (19–49 tahun),P,Jl. Bangau 15,Pegal-pegal,Infeksi Otot,2025-03-12
+Pasien 14,3276011234567814,Lansia (50+ tahun),L,Jl. Rajawali 20,Kesulitan tidur,Insomnia,2024-09-27
+Pasien 15,3276011234567815,Remaja (12–18 tahun),P,Jl. Nuri 18,Sakit tenggorokan,Radang Tenggorokan,2024-12-15
+Pasien 16,3276011234567816,Anak-anak (6–11 tahun),L,Jl. Cemara 1,Batuk pilek,Common Cold,2025-01-14
+Pasien 17,3276011234567817,Bayi/Balita (0–5 tahun),P,Jl. Teratai 6,Ringan demam,Demam,2024-11-22
+Pasien 18,3276011234567818,Ibu Hamil,P,Jl. Melati 14,Pusing,Hipertensi Kehamilan,2025-02-19
+Pasien 19,3276011234567819,PUS/WUS (19–49 tahun),P,Jl. Jempiring 3,Sakit pinggang,Lumbago,2024-10-06
+Pasien 20,3276011234567820,Lansia (50+ tahun),L,Jl. Kamboja 9,Sulit berjalan,Arthritis,2025-01-09
+Pasien 21,3276011234567821,Remaja (12–18 tahun),P,Jl. Soka 2,NyerI kepala,Tegang Otot,2024-09-10
+Pasien 22,3276011234567822,Anak-anak (6–11 tahun),L,Jl. Bakung 7,Mual,Masa Pertumbuhan,2025-03-17
+Pasien 23,3276011234567823,Bayi/Balita (0–5 tahun),P,Jl. Dahlia 11,Nafsu makan turun,Infeksi,2024-10-28
+Pasien 24,3276011234567824,Ibu Hamil,P,Jl. Kenanga 3,Sesak,Hipertensi,2025-01-04
+Pasien 25,3276011234567825,PUS/WUS (19–49 tahun),P,Jl. Mawar 10,Pegal,Myalgia,2024-09-21
+Pasien 26,3276011234567826,Lansia (50+ tahun),L,Jl. Cempaka 5,Batuk kronis,TBC,2025-02-01
+Pasien 27,3276011234567827,Remaja (12–18 tahun),P,Jl. Mangga 8,Demam tinggi,DBD,2024-12-23
+Pasien 28,3276011234567828,Anak-anak (6–11 tahun),L,Jl. Rambutan 5,Nyeri kaki,Infeksi Tulang,2024-11-09
+Pasien 29,3276011234567829,Bayi/Balita (0–5 tahun),P,Jl. Durian 9,Pilek,Common Cold,2025-03-05
+Pasien 30,3276011234567830,Ibu Hamil,P,Jl. Nangka 4,Mual,Hipoglikemia,2024-10-25
+Pasien 31,3276011234567831,PUS/WUS (19–49 tahun),P,Jl. Anggrek 2,Pusing,Migrain,2025-01-19
+Pasien 32,3276011234567832,Lansia (50+ tahun),L,Jl. Sawo 13,Lemas,Anemia,2024-12-12
+Pasien 33,3276011234567833,Remaja (12–18 tahun),L,Jl. Matoa 6,Gatal,Alergi Kulit,2025-11-14
+Pasien 34,3276011234567834,Anak-anak (6–11 tahun),P,Jl. Jambu 3,Kram perut,Infeksi Usus,2024-11-17
+Pasien 35,3276011234567835,Bayi/Balita (0–5 tahun),L,Jl. Alpukat 7,Nafas cepat,Pneumonia,2025-01-07
+Pasien 36,3276011234567836,Ibu Hamil,P,Jl. Pepaya 5,Pegal,Beban Kehamilan,2024-09-30
+Pasien 37,3276011234567837,PUS/WUS (19–49 tahun),P,Jl. Srikaya 12,Sakit perut,Gastritis,2024-10-20
+Pasien 38,3276011234567838,Lansia (50+ tahun),L,Jl. Nanas 11,Lemah otot,Sarkopenia,2025-02-22
+Pasien 39,3276011234567839,Remaja (12–18 tahun),P,Jl. Kedondong 14,Sakit mata,Konjungtivitis,2024-11-06
+Pasien 40,3276011234567840,Anak-anak (6–11 tahun),L,Jl. Belimbing 10,Demam,Infeksi Virus,2025-03-11
+Pasien 41,3276011234567841,Bayi/Balita (0–5 tahun),P,Jl. Pisang 1,Batuk,Pilek,2024-09-14
+Pasien 42,3276011234567842,Ibu Hamil,P,Jl. Salak 9,Pusing,Hipertensi,2025-01-29
+Pasien 43,3276011234567843,PUS/WUS (19–49 tahun),P,Jl. Duku 3,Kelelahan,Anemia,2024-12-26
+Pasien 44,3276011234567844,Lansia (50+ tahun),L,Jl. Semangka 15,Susah tidur,Insomnia,2024-10-01
+Pasien 45,3276011234567845,Remaja (12–18 tahun),L,Jl. Bengkuang 4,Sakit dada,Asma,2025-03-02
+Pasien 46,3276011234567846,Anak-anak (6–11 tahun),P,Jl. Melon 11,Sakit telinga,Infeksi Telinga,2024-11-20
+Pasien 47,3276011234567847,Bayi/Balita (0–5 tahun),L,Jl. Markisa 5,Ruam,Alergi,2025-01-02
+Pasien 48,3276011234567848,Ibu Hamil,P,Jl. Kersen 8,Mual,Morning Sickness,2024-12-13
+Pasien 49,3276011234567849,PUS/WUS (19–49 tahun),P,Jl. Jeruk 13,Migrain,Migrain,2025-02-27
+Pasien 50,3276011234567850,Lansia (50+ tahun),L,Jl. Langsat 7,Nyeri lutut,Arthritis,2024-09-12
+Pasien 51,3276011234567851,Remaja (12–18 tahun),P,Jl. Rambutan 2,Sakit perut,Gastritis,2024-10-29
+Pasien 52,3276011234567852,Anak-anak (6–11 tahun),L,Jl. Pepaya 6,Pilek,Common Cold,2025-03-10
+Pasien 53,3276011234567853,Bayi/Balita (0–5 tahun),P,Jl. Sawo 1,Muntah,Infeksi Lambung,2024-11-03
+Pasien 54,3276011234567854,Ibu Hamil,P,Jl. Manggis 10,Sesak,Hipertensi,2025-01-17
+Pasien 55,3276011234567855,PUS/WUS (19–49 tahun),P,Jl. Durian 4,Pegal,Myalgia,2024-12-19
+Pasien 56,3276011234567856,Lansia (50+ tahun),L,Jl. Jambu 12,Kelelahan,Anemia,2024-10-11
+Pasien 57,3276011234567857,Remaja (12–18 tahun),L,Jl. Kedondong 8,Pusing,Stress,2025-02-06
+Pasien 58,3276011234567858,Anak-anak (6–11 tahun),P,Jl. Pisang 6,Batuk,Infeksi Saluran Napas,2024-09-25
+Pasien 59,3276011234567859,Bayi/Balita (0–5 tahun),L,Jl. Alpukat 3,Diare,Infeksi Usus,2025-03-04
+Pasien 60,3276011234567860,Ibu Hamil,P,Jl. Belimbing 2,Kram,Hipertensi,2024-10-31
+Pasien 61,3276011234567861,PUS/WUS (19–49 tahun),P,Jl. Markisa 13,NyerI punggung,Lumbago,2024-11-15
+Pasien 62,3276011234567862,Lansia (50+ tahun),L,Jl. Kranji 5,Napas pendek,Asma,2025-01-23
+Pasien 63,3276011234567863,Remaja (12–18 tahun),P,Jl. Jati 12,Mual,Infeksi,2024-09-18
+Pasien 64,3276011234567864,Anak-anak (6–11 tahun),L,Jl. Gaharu 4,Sakit kepala,Demam,2025-02-16
+Pasien 65,3276011234567865,Bayi/Balita (0–5 tahun),P,Jl. Meranti 8,Pilek,Common Cold,2024-12-05
+Pasien 66,3276011234567866,Ibu Hamil,P,Jl. Pinus 3,Sakit pinggang,Beban Kehamilan,2025-01-08
+Pasien 67,3276011234567867,PUS/WUS (19–49 tahun),P,Jl. Palem 9,Migrain,Migrain,2024-10-14
+Pasien 68,3276011234567868,Lansia (50+ tahun),L,Jl. Akasia 10,Lemas,Anemia,2024-11-24
+Pasien 69,3276011234567869,Remaja (12–18 tahun),L,Jl. Beringin 6,Kulit gatal,Alergi,2025-02-11
+Pasien 70,3276011234567870,Anak-anak (6–11 tahun),P,Jl. Kenanga 7,Demam,Flu,2025-03-13
+Pasien 71,3276011234567871,Bayi/Balita (0–5 tahun),L,Jl. Mawar 3,Gelisah,Demam,2024-09-29
+Pasien 72,3276011234567872,Ibu Hamil,P,Jl. Melati 5,Pusing,Hipertensi,2024-11-19
+Pasien 73,3276011234567873,PUS/WUS (19–49 tahun),P,Jl. Cempaka 11,Lemah,Infeksi,2025-01-05
+Pasien 74,3276011234567874,Lansia (50+ tahun),L,Jl. Anggrek 14,Sakit dada,Asma,2024-12-29
+Pasien 75,3276011234567875,Remaja (12–18 tahun),P,Jl. Mawar 2,Pegal-pegal,Infeksi Otot,2025-02-09
+Pasien 76,3276011234567876,Anak-anak (6–11 tahun),L,Jl. Kamboja 6,Nyeri perut,Gastritis,2024-10-07
+Pasien 77,3276011234567877,Bayi/Balita (0–5 tahun),P,Jl. Teratai 3,Batuk,Pilek,2025-03-14
+Pasien 78,3276011234567878,Ibu Hamil,P,Jl. Dahlia 9,Mual,Hipoglikemia,2024-12-21
+Pasien 79,3276011234567879,PUS/WUS (19–49 tahun),P,Jl. Kenanga 4,Lemah,Anemia,2024-09-16
+Pasien 80,3276011234567880,Lansia (50+ tahun),L,Jl. Mawar 6,Sulit berjalan,Arthritis,2025-01-28
+Pasien 81,3276011234567881,Remaja (12–18 tahun),L,Jl. Soka 1,Sakit tenggorokan,Radang Tenggorokan,2024-11-13
+Pasien 82,3276011234567882,Anak-anak (6–11 tahun),P,Jl. Bakti 3,Batuk pilek,Common Cold,2025-02-20
+Pasien 83,3276011234567883,Bayi/Balita (0–5 tahun),L,Jl. Jempiring 10,Ruam,Alergi,2024-10-19
+Pasien 84,3276011234567884,Ibu Hamil,P,Jl. Flamboyan 18,Kram perut,Kehamilan,2025-01-13
+Pasien 85,3276011234567885,PUS/WUS (19–49 tahun),P,Jl. Nuri 7,Sakit kepala,Stress,2024-12-14
+Pasien 86,3276011234567886,Lansia (50+ tahun),L,Jl. Rajawali 3,Lemas,Diabetes,2024-10-03
+Pasien 87,3276011234567887,Remaja (12–18 tahun),P,Jl. Cemara 9,Sakit perut,Infeksi,2025-02-05
+Pasien 88,3276011234567888,Anak-anak (6–11 tahun),L,Jl. Kenari 5,Pilek,Common Cold,2024-11-01
+Pasien 89,3276011234567889,Bayi/Balita (0–5 tahun),P,Jl. Merpati 8,Diare,Infeksi Usus,2025-03-07
+Pasien 90,3276011234567890,Ibu Hamil,P,Jl. Kenanga 2,Lemah,Anemia Kehamilan,2024-09-23
+Pasien 91,3276011234567891,PUS/WUS (19–49 tahun),P,Jl. Melur 11,Pusing,Migrain,2025-01-11
+Pasien 92,3276011234567892,Lansia (50+ tahun),L,Jl. Anggur 3,Napas sesak,PPOK,2024-12-18
+Pasien 93,3276011234567893,Remaja (12–18 tahun),L,Jl. Manggis 6,Gatal,Alergi,2025-02-25
+Pasien 94,3276011234567894,Anak-anak (6–11 tahun),P,Jl. Jeruk 12,Nyeri telinga,Infeksi Telinga,2024-10-22
+Pasien 95,3276011234567895,Bayi/Balita (0–5 tahun),L,Jl. Pepaya 4,Demam tinggi,Infeksi Virus,2025-03-08
+Pasien 96,3276011234567896,Ibu Hamil,P,Jl. Alpukat 9,Nafsu makan turun,Hipoglikemia,2024-11-30
+Pasien 97,3276011234567897,PUS/WUS (19–49 tahun),P,Jl. Kenanga 10,NyerI punggung,Lumbago,2025-01-21
+Pasien 98,3276011234567898,Lansia (50+ tahun),L,Jl. Cempaka 15,Lemah jantung,Heart Failure,2024-10-10
+Pasien 99,3276011234567899,Remaja (12–18 tahun),P,Jl. Mawar 9,Sakit kepala,Flu,2025-02-13
+Pasien 100,3276011234567800,Anak-anak (6–11 tahun),L,Jl. Melati 19,Pilek,Common Cold,2024-12-01
+Pasien 101,9447934769197113,11,Laki-laki,Desa C,Batuk,Asma,2025-05-17
+Pasien 78,5528283030105225,66,Laki-laki,Dusun 3,Demam,DBD,2025-09-27
+Pasien 100,8880618914629403,10,Perempuan,Dusun 3,Batuk,Hipertensi,2025-08-16
+Pasien 36,9119249521982186,6,Laki-laki,Desa B,Mual,COVID-19,2025-10-03
+Pasien 24,3106350914778763,60,Laki-laki,Dusun 3,Sesak Napas,Asma,2025-07-17
+Pasien 58,3758578359245453,48,Laki-laki,Desa B,Sesak Napas,Demam Tinggi,2025-09-15
+Pasien 10,3715285984275093,19,Perempuan,Dusun 1,Mual,ISPA,2025-10-09
+Pasien 75,4296892326781807,60,Perempuan,Dusun 2,Sesak Napas,DBD,2025-07-28
+Pasien 73,5052118145140309,71,Laki-laki,Desa A,Batuk,DBD,2025-10-20
+Pasien 53,9013261446829838,14,Laki-laki,Desa B,Mual,Asma,2025-05-08
+Pasien 30,9396243536272279,48,Perempuan,Dusun 3,Batuk,COVID-19,2025-10-28
+Pasien 10,8457618706917061,6,Perempuan,Desa A,Mual,Hipertensi,2024-11-25
+Pasien 88,2005435109897589,42,Laki-laki,Desa C,Sesak Napas,Hipertensi,2025-05-08
+Pasien 10,7717173878814927,35,Laki-laki,Dusun 3,Sesak Napas,Diare,2025-10-23
+Pasien 113,3841173452112443,46,Laki-laki,Dusun 1,Mual,ISPA,2025-08-17
+Pasien 40,7490491566528461,28,Laki-laki,Dusun 2,Pusing,Hipertensi,2025-08-04
+Pasien 56,1682569857855854,26,Perempuan,Desa A,Demam,Gatal Kulit,2025-04-04
+Pasien 53,9923341986105934,17,Laki-laki,Dusun 2,Pusing,COVID-19,2025-10-21
+Pasien 79,1583644665542402,61,Laki-laki,Dusun 1,Bersin-bersin,Demam Tinggi,2025-08-25
+Pasien 92,4455558177079092,73,Perempuan,Desa C,Sesak Napas,DBD,2025-04-17
+Putri Patricia,160400000000,PUS/WUS (19–49 tahun),Perempuan,Desa X,batuk,ISPA,2025-11-15 15:20:25
+Putri Patricia,160400000001,PUS/WUS (19–49 tahun),Perempuan,Desa X Merapi Barat,"Badan panas, kepala pusing",Demam,2025-11-29 11:27:06

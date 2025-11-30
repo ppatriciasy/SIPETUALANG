@@ -1,0 +1,134 @@
+Nama,NIK,Umur,Jenis Kelamin,Alamat,Keluhan,Diagnosa,Tanggal
+Pengguna 1,3500000000000000,Anak-anak (6–11 tahun),Perempuan,Dusun 1,gatal-gatal,Penyakit Kulit,2025-01-31 07:14:30
+Pengguna 2,3500000000000001,Remaja (12–18 tahun),Perempuan,Desa B,tenggorokan sakit,Belum teridentifikasi,2025-01-02 07:14:30
+Pengguna 3,3500000000000002,Ibu Hamil,Laki-laki,Desa C,batuk dan pilek,ISPA (Infeksi Saluran Pernapasan Akut),2024-12-17 07:14:30
+Pengguna 4,3500000000000003,PUS/WUS (19–49 tahun),Laki-laki,Desa A,nyeri kepala,Demam / Infeksi Umum,2025-08-19 07:14:30
+Pengguna 5,3500000000000004,PUS/WUS (19–49 tahun),Laki-laki,Desa A,diare,Gangguan Pencernaan,2025-05-19 07:14:30
+Pengguna 6,3500000000000005,Anak-anak (6–11 tahun),Perempuan,Desa A,tenggorokan sakit,Belum teridentifikasi,2025-09-14 07:14:30
+Pengguna 7,3500000000000006,Lansia (50+ tahun),Laki-laki,Dusun 1,mual muntah,Gangguan Pencernaan,2025-04-17 07:14:30
+Pengguna 8,3500000000000007,Anak-anak (6–11 tahun),Perempuan,Dusun 1,batuk dan pilek,ISPA (Infeksi Saluran Pernapasan Akut),2025-02-21 07:14:30
+Pengguna 9,3500000000000008,Ibu Hamil,Perempuan,Desa B,nyeri kepala,Demam / Infeksi Umum,2025-11-06 07:14:30
+Pengguna 10,3500000000000009,Remaja (12–18 tahun),Perempuan,Desa B,tenggorokan sakit,Belum teridentifikasi,2024-12-26 07:14:30
+Pengguna 11,3500000000000010,PUS/WUS (19–49 tahun),Perempuan,Desa C,tenggorokan sakit,Belum teridentifikasi,2025-03-13 07:14:30
+Pengguna 12,3500000000000011,Remaja (12–18 tahun),Perempuan,Desa A,diare,Gangguan Pencernaan,2025-07-12 07:14:30
+Pengguna 13,3500000000000012,PUS/WUS (19–49 tahun),Laki-laki,Dusun 1,demam tinggi,Demam / Infeksi Umum,2025-06-04 07:14:30
+Pengguna 14,3500000000000013,Ibu Hamil,Perempuan,Desa B,tenggorokan sakit,Belum teridentifikasi,2025-06-08 07:14:30
+Pengguna 15,3500000000000014,Bayi/Balita (0–5 tahun),Perempuan,Dusun 2,tenggorokan sakit,Belum teridentifikasi,2025-01-18 07:14:30
+Pengguna 16,3500000000000015,Ibu Hamil,Perempuan,Dusun 1,tenggorokan sakit,Belum teridentifikasi,2025-03-20 07:14:30
+Pengguna 17,3500000000000016,Ibu Hamil,Perempuan,Desa A,nyeri kepala,Demam / Infeksi Umum,2025-06-07 07:14:30
+Pengguna 18,3500000000000017,Bayi/Balita (0–5 tahun),Laki-laki,Desa C,tenggorokan sakit,Belum teridentifikasi,2025-07-15 07:14:30
+Pengguna 19,3500000000000018,Ibu Hamil,Laki-laki,Dusun 1,nyeri kepala,Demam / Infeksi Umum,2025-04-26 07:14:30
+Pengguna 20,3500000000000019,PUS/WUS (19–49 tahun),Perempuan,Desa C,gatal-gatal,Penyakit Kulit,2025-02-16 07:14:30
+Pengguna 21,3500000000000020,Lansia (50+ tahun),Perempuan,Desa C,batuk dan pilek,ISPA (Infeksi Saluran Pernapasan Akut),2025-01-08 07:14:30
+Pengguna 22,3500000000000021,PUS/WUS (19–49 tahun),Perempuan,Dusun 2,nyeri kepala,Demam / Infeksi Umum,2025-02-09 07:14:30
+Pengguna 23,3500000000000022,Lansia (50+ tahun),Laki-laki,Desa A,batuk dan pilek,ISPA (Infeksi Saluran Pernapasan Akut),2025-02-17 07:14:30
+Pengguna 24,3500000000000023,Anak-anak (6–11 tahun),Perempuan,Desa B,batuk dan pilek,ISPA (Infeksi Saluran Pernapasan Akut),2024-11-22 07:14:30
+Pengguna 25,3500000000000024,Bayi/Balita (0–5 tahun),Perempuan,Desa C,demam tinggi,Demam / Infeksi Umum,2025-09-21 07:14:30
+Pengguna 26,3500000000000025,PUS/WUS (19–49 tahun),Perempuan,Dusun 2,tenggorokan sakit,Belum teridentifikasi,2025-05-07 07:14:30
+Pengguna 27,3500000000000026,Bayi/Balita (0–5 tahun),Laki-laki,Desa B,tenggorokan sakit,Belum teridentifikasi,2025-04-09 07:14:30
+Pengguna 28,3500000000000027,PUS/WUS (19–49 tahun),Perempuan,Dusun 2,diare,Gangguan Pencernaan,2025-04-18 07:14:30
+Pengguna 29,3500000000000028,PUS/WUS (19–49 tahun),Laki-laki,Dusun 2,mual muntah,Gangguan Pencernaan,2025-05-25 07:14:30
+Pengguna 30,3500000000000029,Bayi/Balita (0–5 tahun),Perempuan,Dusun 1,demam tinggi,Demam / Infeksi Umum,2025-08-09 07:14:30
+Pengguna 31,3500000000000030,PUS/WUS (19–49 tahun),Laki-laki,Dusun 1,demam tinggi,Demam / Infeksi Umum,2025-10-21 07:14:30
+Pengguna 32,3500000000000031,PUS/WUS (19–49 tahun),Laki-laki,Desa C,tenggorokan sakit,Belum teridentifikasi,2025-01-07 07:14:30
+Pengguna 33,3500000000000032,Bayi/Balita (0–5 tahun),Laki-laki,Desa B,gatal-gatal,Penyakit Kulit,2025-05-27 07:14:30
+Pengguna 34,3500000000000033,Ibu Hamil,Perempuan,Desa C,mual muntah,Gangguan Pencernaan,2025-05-20 07:14:30
+Pengguna 35,3500000000000034,Remaja (12–18 tahun),Laki-laki,Desa C,demam tinggi,Demam / Infeksi Umum,2025-01-27 07:14:30
+Pengguna 36,3500000000000035,Ibu Hamil,Laki-laki,Dusun 2,mual muntah,Gangguan Pencernaan,2025-06-11 07:14:30
+Pengguna 37,3500000000000036,PUS/WUS (19–49 tahun),Perempuan,Desa A,nyeri kepala,Demam / Infeksi Umum,2025-10-09 07:14:30
+Pengguna 38,3500000000000037,Bayi/Balita (0–5 tahun),Laki-laki,Desa B,diare,Gangguan Pencernaan,2025-01-25 07:14:30
+Pengguna 39,3500000000000038,PUS/WUS (19–49 tahun),Laki-laki,Dusun 1,mual muntah,Gangguan Pencernaan,2025-03-15 07:14:30
+Pengguna 40,3500000000000039,Bayi/Balita (0–5 tahun),Laki-laki,Desa A,tenggorokan sakit,Belum teridentifikasi,2025-10-19 07:14:30
+Pengguna 41,3500000000000040,PUS/WUS (19–49 tahun),Laki-laki,Dusun 2,mual muntah,Gangguan Pencernaan,2024-11-20 07:14:30
+Pengguna 42,3500000000000041,PUS/WUS (19–49 tahun),Perempuan,Dusun 2,demam tinggi,Demam / Infeksi Umum,2025-05-27 07:14:30
+Pengguna 43,3500000000000042,Remaja (12–18 tahun),Perempuan,Dusun 1,diare,Gangguan Pencernaan,2025-09-04 07:14:30
+Pengguna 44,3500000000000043,Ibu Hamil,Perempuan,Desa A,mual muntah,Gangguan Pencernaan,2025-05-02 07:14:30
+Pengguna 45,3500000000000044,Bayi/Balita (0–5 tahun),Perempuan,Desa A,gatal-gatal,Penyakit Kulit,2025-01-06 07:14:30
+Pengguna 46,3500000000000045,Anak-anak (6–11 tahun),Perempuan,Desa B,nyeri kepala,Demam / Infeksi Umum,2025-08-13 07:14:30
+Pengguna 47,3500000000000046,Lansia (50+ tahun),Laki-laki,Dusun 1,tenggorokan sakit,Belum teridentifikasi,2025-04-28 07:14:30
+Pengguna 48,3500000000000047,Bayi/Balita (0–5 tahun),Perempuan,Dusun 2,gatal-gatal,Penyakit Kulit,2024-12-28 07:14:30
+Pengguna 49,3500000000000048,Lansia (50+ tahun),Laki-laki,Dusun 2,diare,Gangguan Pencernaan,2025-08-10 07:14:30
+Pengguna 50,3500000000000049,Remaja (12–18 tahun),Laki-laki,Dusun 2,tenggorokan sakit,Belum teridentifikasi,2025-08-22 07:14:30
+Pengguna 51,3500000000000050,Ibu Hamil,Perempuan,Desa A,tenggorokan sakit,Belum teridentifikasi,2025-04-07 07:14:30
+Pengguna 52,3500000000000051,Bayi/Balita (0–5 tahun),Perempuan,Desa B,mual muntah,Gangguan Pencernaan,2024-11-17 07:14:30
+Pengguna 53,3500000000000052,Ibu Hamil,Perempuan,Desa A,demam tinggi,Demam / Infeksi Umum,2025-05-26 07:14:30
+Pengguna 54,3500000000000053,Remaja (12–18 tahun),Laki-laki,Desa A,demam tinggi,Demam / Infeksi Umum,2024-11-16 07:14:30
+Pengguna 55,3500000000000054,Remaja (12–18 tahun),Perempuan,Desa C,gatal-gatal,Penyakit Kulit,2025-06-26 07:14:30
+Pengguna 56,3500000000000055,Bayi/Balita (0–5 tahun),Laki-laki,Desa C,demam tinggi,Demam / Infeksi Umum,2025-11-09 07:14:30
+Pengguna 57,3500000000000056,PUS/WUS (19–49 tahun),Perempuan,Desa C,mual muntah,Gangguan Pencernaan,2025-04-18 07:14:30
+Pengguna 58,3500000000000057,Remaja (12–18 tahun),Laki-laki,Dusun 1,mual muntah,Gangguan Pencernaan,2025-08-14 07:14:30
+Pengguna 59,3500000000000058,Anak-anak (6–11 tahun),Laki-laki,Dusun 1,batuk dan pilek,ISPA (Infeksi Saluran Pernapasan Akut),2025-03-15 07:14:30
+Pengguna 60,3500000000000059,Anak-anak (6–11 tahun),Perempuan,Desa B,gatal-gatal,Penyakit Kulit,2025-01-25 07:14:30
+Pengguna 61,3500000000000060,Lansia (50+ tahun),Perempuan,Dusun 2,nyeri kepala,Demam / Infeksi Umum,2024-12-04 07:14:30
+Pengguna 62,3500000000000061,Bayi/Balita (0–5 tahun),Laki-laki,Desa C,batuk dan pilek,ISPA (Infeksi Saluran Pernapasan Akut),2025-07-27 07:14:30
+Pengguna 63,3500000000000062,Bayi/Balita (0–5 tahun),Laki-laki,Desa B,demam tinggi,Demam / Infeksi Umum,2025-01-14 07:14:30
+Pengguna 64,3500000000000063,Remaja (12–18 tahun),Laki-laki,Dusun 2,diare,Gangguan Pencernaan,2025-07-28 07:14:30
+Pengguna 65,3500000000000064,Remaja (12–18 tahun),Perempuan,Dusun 2,demam tinggi,Demam / Infeksi Umum,2025-11-09 07:14:30
+Pengguna 66,3500000000000065,Bayi/Balita (0–5 tahun),Laki-laki,Dusun 1,tenggorokan sakit,Belum teridentifikasi,2025-09-21 07:14:30
+Pengguna 67,3500000000000066,Remaja (12–18 tahun),Laki-laki,Desa C,nyeri kepala,Demam / Infeksi Umum,2025-03-11 07:14:30
+Pengguna 68,3500000000000067,Anak-anak (6–11 tahun),Laki-laki,Dusun 1,mual muntah,Gangguan Pencernaan,2025-08-04 07:14:30
+Pengguna 69,3500000000000068,Ibu Hamil,Perempuan,Desa C,gatal-gatal,Penyakit Kulit,2025-10-09 07:14:30
+Pengguna 70,3500000000000069,Bayi/Balita (0–5 tahun),Perempuan,Desa A,batuk dan pilek,ISPA (Infeksi Saluran Pernapasan Akut),2025-05-26 07:14:30
+Pengguna 71,3500000000000070,PUS/WUS (19–49 tahun),Perempuan,Desa C,demam tinggi,Demam / Infeksi Umum,2025-01-28 07:14:30
+Pengguna 72,3500000000000071,Lansia (50+ tahun),Laki-laki,Desa C,mual muntah,Gangguan Pencernaan,2025-01-27 07:14:30
+Pengguna 73,3500000000000072,Anak-anak (6–11 tahun),Perempuan,Desa B,demam tinggi,Demam / Infeksi Umum,2025-05-20 07:14:30
+Pengguna 74,3500000000000073,Lansia (50+ tahun),Laki-laki,Desa A,gatal-gatal,Penyakit Kulit,2025-09-28 07:14:30
+Pengguna 75,3500000000000074,PUS/WUS (19–49 tahun),Perempuan,Desa C,gatal-gatal,Penyakit Kulit,2025-04-01 07:14:30
+Pengguna 76,3500000000000075,Anak-anak (6–11 tahun),Laki-laki,Dusun 2,mual muntah,Gangguan Pencernaan,2024-12-10 07:14:30
+Pengguna 77,3500000000000076,Lansia (50+ tahun),Perempuan,Desa C,gatal-gatal,Penyakit Kulit,2025-03-23 07:14:30
+Pengguna 78,3500000000000077,PUS/WUS (19–49 tahun),Laki-laki,Dusun 1,diare,Gangguan Pencernaan,2024-12-04 07:14:30
+Pengguna 79,3500000000000078,Ibu Hamil,Perempuan,Desa B,batuk dan pilek,ISPA (Infeksi Saluran Pernapasan Akut),2025-05-01 07:14:30
+Pengguna 80,3500000000000079,Ibu Hamil,Laki-laki,Dusun 2,gatal-gatal,Penyakit Kulit,2025-11-07 07:14:30
+Pengguna 81,3500000000000080,Anak-anak (6–11 tahun),Laki-laki,Desa B,batuk dan pilek,ISPA (Infeksi Saluran Pernapasan Akut),2025-07-26 07:14:30
+Pengguna 82,3500000000000081,Bayi/Balita (0–5 tahun),Laki-laki,Desa B,gatal-gatal,Penyakit Kulit,2025-08-17 07:14:30
+Pengguna 83,3500000000000082,Lansia (50+ tahun),Perempuan,Desa C,nyeri kepala,Demam / Infeksi Umum,2025-05-21 07:14:30
+Pengguna 84,3500000000000083,Anak-anak (6–11 tahun),Perempuan,Dusun 1,nyeri kepala,Demam / Infeksi Umum,2025-02-13 07:14:30
+Pengguna 85,3500000000000084,Lansia (50+ tahun),Laki-laki,Desa C,nyeri kepala,Demam / Infeksi Umum,2025-04-11 07:14:30
+Pengguna 86,3500000000000085,Lansia (50+ tahun),Laki-laki,Desa A,gatal-gatal,Penyakit Kulit,2024-12-28 07:14:30
+Pengguna 87,3500000000000086,Lansia (50+ tahun),Perempuan,Dusun 1,tenggorokan sakit,Belum teridentifikasi,2025-09-05 07:14:30
+Pengguna 88,3500000000000087,Lansia (50+ tahun),Laki-laki,Desa A,diare,Gangguan Pencernaan,2025-06-11 07:14:30
+Pengguna 89,3500000000000088,Anak-anak (6–11 tahun),Laki-laki,Dusun 1,diare,Gangguan Pencernaan,2024-12-11 07:14:30
+Pengguna 90,3500000000000089,Anak-anak (6–11 tahun),Perempuan,Desa B,mual muntah,Gangguan Pencernaan,2025-08-25 07:14:30
+Pengguna 91,3500000000000090,Ibu Hamil,Perempuan,Dusun 2,nyeri kepala,Demam / Infeksi Umum,2025-10-12 07:14:30
+Pengguna 92,3500000000000091,Anak-anak (6–11 tahun),Laki-laki,Desa C,mual muntah,Gangguan Pencernaan,2025-09-25 07:14:30
+Pengguna 93,3500000000000092,Lansia (50+ tahun),Laki-laki,Desa A,gatal-gatal,Penyakit Kulit,2025-09-03 07:14:30
+Pengguna 94,3500000000000093,PUS/WUS (19–49 tahun),Laki-laki,Dusun 2,mual muntah,Gangguan Pencernaan,2025-06-22 07:14:30
+Pengguna 95,3500000000000094,Bayi/Balita (0–5 tahun),Perempuan,Dusun 1,tenggorokan sakit,Belum teridentifikasi,2024-12-17 07:14:30
+Pengguna 96,3500000000000095,PUS/WUS (19–49 tahun),Laki-laki,Desa B,demam tinggi,Demam / Infeksi Umum,2025-03-22 07:14:30
+Pengguna 97,3500000000000096,Bayi/Balita (0–5 tahun),Perempuan,Dusun 2,nyeri kepala,Demam / Infeksi Umum,2025-10-21 07:14:30
+Pengguna 98,3500000000000097,Anak-anak (6–11 tahun),Laki-laki,Dusun 2,nyeri kepala,Demam / Infeksi Umum,2024-12-13 07:14:30
+Pengguna 99,3500000000000098,Remaja (12–18 tahun),Laki-laki,Desa A,demam tinggi,Demam / Infeksi Umum,2025-04-23 07:14:30
+Pengguna 100,3500000000000099,Bayi/Balita (0–5 tahun),Perempuan,Desa A,demam tinggi,Demam / Infeksi Umum,2025-11-06 07:14:30
+Pasien 101,9447934769197113,11,Laki-laki,Desa C,Batuk,Asma,2025-05-17
+Pasien 78,5528283030105225,66,Laki-laki,Dusun 3,Demam,DBD,2025-09-27
+Pasien 100,8880618914629403,10,Perempuan,Dusun 3,Batuk,Hipertensi,2025-08-16
+Pasien 36,9119249521982186,6,Laki-laki,Desa B,Mual,COVID-19,2025-10-03
+Pasien 24,3106350914778763,60,Laki-laki,Dusun 3,Sesak Napas,Asma,2025-07-17
+Pasien 58,3758578359245453,48,Laki-laki,Desa B,Sesak Napas,Demam Tinggi,2025-09-15
+Pasien 10,3715285984275093,19,Perempuan,Dusun 1,Mual,ISPA,2025-10-09
+Pasien 75,4296892326781807,60,Perempuan,Dusun 2,Sesak Napas,DBD,2025-07-28
+Pasien 73,5052118145140309,71,Laki-laki,Desa A,Batuk,DBD,2025-10-20
+Pasien 53,9013261446829838,14,Laki-laki,Desa B,Mual,Asma,2025-05-08
+Pasien 30,9396243536272279,48,Perempuan,Dusun 3,Batuk,COVID-19,2025-10-28
+Pasien 10,8457618706917061,6,Perempuan,Desa A,Mual,Hipertensi,2024-11-25
+Pasien 88,2005435109897589,42,Laki-laki,Desa C,Sesak Napas,Hipertensi,2025-05-08
+Pasien 10,7717173878814927,35,Laki-laki,Dusun 3,Sesak Napas,Diare,2025-10-23
+Pasien 113,3841173452112443,46,Laki-laki,Dusun 1,Mual,ISPA,2025-08-17
+Pasien 40,7490491566528461,28,Laki-laki,Dusun 2,Pusing,Hipertensi,2025-08-04
+Pasien 56,1682569857855854,26,Perempuan,Desa A,Demam,Gatal Kulit,2025-04-04
+Pasien 53,9923341986105934,17,Laki-laki,Dusun 2,Pusing,COVID-19,2025-10-21
+Pasien 79,1583644665542402,61,Laki-laki,Dusun 1,Bersin-bersin,Demam Tinggi,2025-08-25
+Pasien 92,4455558177079092,73,Perempuan,Desa C,Sesak Napas,DBD,2025-04-17
+Nadia Omara,160400000001,PUS/WUS (19–49 tahun),Perempuan,Jakarta bagian Youtube,batuk,ISPA (Infeksi Saluran Pernapasan Akut),2025-11-17 14:39:26
+Nessie Judge,160400000002,PUS/WUS (19–49 tahun),Perempuan,Jakarta bagian Youtube Nerror,pusing,Hipertensi,2025-11-17 14:40:19
+Putri Patricia,160400000002,PUS/WUS (19–49 tahun),Perempuan,Desa X,"batuk, pilek",ISPA (Infeksi Saluran Pernapasan Akut),2025-11-17 16:03:57
+Thesya,160400000008,PUS/WUS (19–49 tahun),Perempuan,Desa U,"Demam, Panas",Demam / Infeksi Umum,2025-11-19 08:52:53
+Siti,160400000007,PUS/WUS (19–49 tahun),Perempuan,Desa L,Panas,Demam / Infeksi Umum,2025-11-19 08:53:15
+Syauqi,160400000005,Anak-anak (6–11 tahun),Laki-laki,Desa G,panas,Demam / Infeksi Umum,2025-11-19 09:35:51
+Syauqi,160400000005,Anak-anak (6–11 tahun),Laki-laki,Desa G,badan panas,Demam / Infeksi Umum,2025-11-19 09:35:59
+Syauqi,160400000005,Anak-anak (6–11 tahun),Laki-laki,Desa G,"badan panas, kepala pusing",Demam / Infeksi Umum,2025-11-19 09:36:04
+Putri,16040000004,PUS/WUS (19–49 tahun),Perempuan,Desa X,"badan panas, kepala pusing",Demam / Infeksi Umum,2025-11-19 10:16:39
+PUTRI PATRICIA,160400000001,PUS/WUS (19–49 tahun),Perempuan,Desa X,"badan panas, pusing",Demam / Infeksi Umum,2025-11-23 22:43:49
+PUTRI PATRICIA,160400000001,PUS/WUS (19–49 tahun),Perempuan,Desa X,"badan panas, pusing",Demam / Infeksi Umum,2025-11-23 22:47:23
+Putri Patricia,160400000001,PUS/WUS (19–49 tahun),Perempuan,Desa X,"badan pana, kepala pusing",Hipertensi,2025-11-24 10:05:45
+Putri Patricia,160400000001,PUS/WUS (19–49 tahun),Perempuan,Desa X,"badan pana, kepala pusing",Hipertensi,2025-11-24 10:07:28

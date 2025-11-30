@@ -1,0 +1,13 @@
+timestamp,id_laporan,feedback,status_baru
+"2025-11-15 22:50:46,0,""Pemerintah Kecamatan telah menerima laporan mengenai peningkatan kasus ISPA di Desa X. Berdasarkan hasil evaluasi, kami akan melakukan beberapa langkah penanggulangan sebagai respons cepat untuk mengurangi jumlah kasus dan mencegah penyebaran lebih luas."",Diproses Pemerintah",,,
+"2025-11-15 22:51:35,0,""Karena meningkatnya kasus ISPA diduga terkait polusi debu akibat aktivitas truk pengangkut, laporan ini diteruskan kepada perusahaan untuk mendapatkan tindak lanjut dalam pengurangan polusi."",Diteruskan ke PT",,,
+2025-11-15 22:54:29,0.0,Terima kasih atas laporan yang telah disampaikan oleh Pemerintah Kecamatan terkait meningkatnya kasus ISPA di Desa X. Kami dari pihak perusahaan telah melakukan evaluasi lapangan dan berkomitmen untuk mendukung penanggulangan dampak aktivitas transportasi dan operasional kami terhadap kesehatan masyarakat.,Diteruskan ke PT
+"2025-11-16 06:48:13,1,""Baik, terima kasih atas laporannya. kami akan segera melakukan penyuluhn kesehatan, terutama pada Desa Y."",Diproses Pemerintah",,,
+"2025-11-16 07:10:11,1,""Terima kasih atas laporannya.Nanti akan diadakan penyulihan kesehatan, terutam untuk desa Y."",Selesai",,,
+2025-11-16 07:12:36,1.0,a,Selesai
+2025-11-17 16:14:21,2.0,mohon ditindak lanjuti,Diteruskan ke PT
+2025-11-19 10:26:29,3.0,tolong ditindak lanjut untuk melakukan penyiraman jalan.,Diteruskan ke PT
+2025-11-23 21:55:25,3.0,tolong ditinaklanjuti.,Diteruskan ke PT
+2025-11-29 12:00:47,4.0,Baik terima kasih atas laporannya. Kami dari pemerintah akan membagikan 1000 masker gratis untuk masyarakt Desa X Merapi Barat. Serta akan kami teruskan ke pihat PT untuk dilakukan penyiraman jalan lalu lintas.,Diproses Pemerintah
+2025-11-29 12:08:35,4.0,"Kami menerima laporan dari Faskes Desa X Merapi Barat dan telah melakukan survey langsung ke lokasi, ditemukan bahwa polusi udara meningkat akibat padatnya lalu lintas, terutama karena truk besar pengangkut barang. Maka dari itu, kami meminta untuk dilakukan penyiraman jalan untuk mengurangi polusi debu. Terima Kasih.",Diteruskan ke PT
+2025-11-29 12:14:25,4.0,Mohon untuk segera diproses penjadwalan penyiraman jalan lalu lintas di Desa X Merapi Barat.,Diteruskan ke PT
